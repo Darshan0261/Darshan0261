@@ -31,10 +31,8 @@ Languages and Tools:
 
 
 
-Languages and Tools:
+Languages and Tools: <br/>
 Javascript NodeJS MongoDB ExpressJS Bootstrap HTML5 CSS3 Netlify 
 
-Here are some ideas to get you started:
-
-🌱 I’m currently learning full stack web development course.
+🌱 I’m currently learning full stack web development course. <br/>
 💬 Ask me about coding
