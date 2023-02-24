@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🌱 I’m currently learning **Nodejs and other backend frameworks**
 
-- 👨‍💻 All of my projects are available at [https://darshan0261.github.io/](https://darshan0261.github.io/)
+- 👨‍💻 All of my projects are available at [darshan0261.github.io/](darshan0261.github.io/)
 
 - 💬 Ask me about **javascript and MongoDB**
 
