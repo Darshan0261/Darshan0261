@@ -48,7 +48,7 @@
 
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan0261&show_icons=true&locale=en&layout=compact" alt="darshan0261" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan0261&show_icons=true&locale=en&layout=compact&custom_title=Most%20Used%20Language&title_color=black&text_color=black&bg_color=white" alt="darshan0261" /></p>
 <br>
 <br>
 <br>
